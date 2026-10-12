@@ -237,7 +237,7 @@ The macro expects the following arguments:
 
 <section class="notes">
 
-## Notes
+### Notes
 
 -   A double-precision complex floating-point array is a double-precision floating-point array having interleaved real and imaginary components, such that each element of the double-precision complex floating-point array consists of two adjacent (in memory) double-precision floating-point numbers.
 
@@ -292,6 +292,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -326,6 +331,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/napi-argv-strided-complex128array/main/LICENSE
 
 </section>
 
